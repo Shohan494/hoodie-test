@@ -1,0 +1,23 @@
+{
+  "name": "hoodie-test",
+  "version": "1.0.0",
+  "description": "hoodie testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "hoodie"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shohan494/hoodie-test.git"
+  },
+  "author": "Shohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shohan494/hoodie-test/issues"
+  },
+  "homepage": "https://github.com/Shohan494/hoodie-test#readme",
+  "dependencies": {
+    "hoodie": "^28.1.0"
+  }
+}
